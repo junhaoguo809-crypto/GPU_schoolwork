@@ -1,0 +1,10 @@
+{
+  "pmpp_qa_v2": {
+    "file_name": "pmpp_qa_v2.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  }
+}
