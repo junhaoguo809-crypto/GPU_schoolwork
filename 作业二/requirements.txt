@@ -1,0 +1,6 @@
+fastapi>=0.115.0
+uvicorn>=0.24.0
+pydantic>=2.4.0
+modelscope
+transformers
+# vllm 和 flash-attn 已包含在基础镜像 vllm/vllm-openai:v0.11.0 中

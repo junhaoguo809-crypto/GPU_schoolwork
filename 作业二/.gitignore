@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE
+.idea/
+.vscode/
+
+# Docker build cache
+.docker-cache
+
+# Local model files (downloaded during docker build)
+local-model/
+local-model-*/
+
+# Quantization scripts (development only)
+quantize_*.py
